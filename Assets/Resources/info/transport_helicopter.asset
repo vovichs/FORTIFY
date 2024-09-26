@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09004c0b15b0b18f3a622ea999b9bbaf, type: 3}
+  m_Name: "transport_helicopter"
+  m_EditorClassIdentifier: 
+  named: "scrap transport helicopter"
+  id: 158
+  favorite: 0
+  dontInclude: 1
+  defaultBP: 0
+  pickup: 0
+  workbench: 0
+  multiplier: 0
+  angleLimit: 35
+  buildDeploy: 0
+  researchCost: 0
+  wood: 0
+  stone: 0
+  metal: 0
+  hq_metal: 0
+  gears: 0
+  ladders: 0
+  blades: 0
+  tarp: 0
+  fuel: 0
+  cloth: 0
+  sewkit: 0
+  rope: 0
+  sheetmetal: 0
+  propane: 0
+  techTrash: 0
+  targetComp: 0
+  CCTV: 0
+  scrap: 1250
+  shop: 0
+  storageSlots: 0
+  waterStorage: 0
+  HP: 0
+  protection: 
+  description: 
+  rustDescription: "The Scrap Transport Helicopter is an improved version of the Minicopter.
+  It offers 2 seats and an empty rear for large clans to stand on.
+  It has bulletproof plates covering both sides to hide and has more
+  health compared to the Minicopter. Driving the Scrap Heli is much
+  harder compared to the Minicopter which flies like a feather.\r\nIf
+  the Scrap Heli crashed on land, the body parts can be mined similar
+  to the Patrol Helicopter."

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09004c0b15b0b18f3a622ea999b9bbaf, type: 3}
+  m_Name: "sentry"
+  m_EditorClassIdentifier: 
+  named: "auto turret"
+  id: 70
+  favorite: 0
+  dontInclude: 0
+  defaultBP: 0
+  pickup: 1
+  workbench: 0
+  multiplier: 0
+  angleLimit: 1
+  buildDeploy: 0
+  researchCost: 0
+  wood: 0
+  stone: 0
+  metal: 0
+  hq_metal: 10
+  gears: 0
+  ladders: 0
+  blades: 0
+  tarp: 0
+  fuel: 0
+  cloth: 0
+  sewkit: 0
+  rope: 0
+  sheetmetal: 0
+  propane: 0
+  techTrash: 0
+  targetComp: 1
+  CCTV: 1
+  scrap: 400
+  shop: 1
+  storageSlots: 0
+  waterStorage: 0
+  HP: 1000
+  protection: 
+  - 0.8
+  - 0.9
+  - 0.5
+  - 0.5
+  - 0
+  description: "consumes 10 power \u26A1 \uD83D\uDDF2"
+  rustDescription: "This automated electric sentry turret will engage and neutralize
+  any moving targets it has line of sight to. You must equip it with
+  a projectile weapon and the corresponding ammunition. Note : The
+  turret will search for targets in a 180 degree arc facing *you* when
+  you place it. Requires 10 power."

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09004c0b15b0b18f3a622ea999b9bbaf, type: 3}
+  m_Name: "rowboat"
+  m_EditorClassIdentifier: 
+  named: "motor rowboat"
+  id: 64
+  favorite: 0
+  dontInclude: 1
+  defaultBP: 0
+  pickup: 0
+  workbench: 0
+  multiplier: 0
+  angleLimit: 35
+  buildDeploy: 0
+  researchCost: 0
+  wood: 0
+  stone: 0
+  metal: 0
+  hq_metal: 0
+  gears: 0
+  ladders: 0
+  blades: 0
+  tarp: 0
+  fuel: 0
+  cloth: 0
+  sewkit: 0
+  rope: 0
+  sheetmetal: 0
+  propane: 0
+  techTrash: 0
+  targetComp: 0
+  CCTV: 0
+  scrap: 125
+  shop: 2
+  storageSlots: 0
+  waterStorage: 0
+  HP: 0
+  protection: 
+  description: 
+  rustDescription: "The Motor Rowboat is a surprisingly cheap transport vehicle that
+  can be bought at fishing villages or found near shores, however can
+  only be used to navigate the ocean. It requires low grade fuel to
+  run and can fit 3 passengers and 1 driver. It also has a small stash
+  in the front for extra storage.\r\nIt is commonly used for searching
+  sunken chests with diving equipments, looting junkpiles on water
+  and serves as an option to access Oil Rigs. The rowboat is exposed
+  to ranged weapons and you can be shot from anywhere. However, switching
+  seats while the engine is still on will not force the boat to stop.
+  So, you can heal and shoot enemies targeting you. You can also dismount
+  from the boat and shoot Oil Rig scientists from far away."

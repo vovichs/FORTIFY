@@ -1,0 +1,631 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!13 &1
+InputManager:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Axes:
+  - serializedVersion: 3
+    m_Name: "Left"
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "a"
+    altNegativeButton: 
+    altPositiveButton: "left"
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Right"
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "d"
+    altNegativeButton: 
+    altPositiveButton: "right"
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Forward"
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "w"
+    altNegativeButton: 
+    altPositiveButton: "up"
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Back"
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "s"
+    altNegativeButton: 
+    altPositiveButton: "down"
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "CameraRotate"
+    descriptiveName: "hold for mouse look "
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "mouse 1"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Mouse X"
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0.1
+    snap: 0
+    invert: 0
+    type: 1
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Mouse Y"
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0.1
+    snap: 0
+    invert: 0
+    type: 1
+    axis: 1
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Mouse ScrollWheel"
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0.1
+    snap: 0
+    invert: 0
+    type: 1
+    axis: 2
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Up"
+    descriptiveName: "Up \x2f Jump"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "space"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Down"
+    descriptiveName: "Down \x2f Crouch"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "left ctrl"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 1
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Swap"
+    descriptiveName: "Swap Similar Parts"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "c"
+    altNegativeButton: 
+    altPositiveButton: "mouse 3"
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Edit"
+    descriptiveName: "Edit Mode"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "x"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Del"
+    descriptiveName: "Alternate Delete"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "r"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Mode"
+    descriptiveName: "Build\x2fPlace Toggle"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "tab"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Hide"
+    descriptiveName: "Hide Floors"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "f"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "rot+"
+    descriptiveName: "part rotation+"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "e"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "rot-"
+    descriptiveName: "part rotation-"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "q"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "RectSelect"
+    descriptiveName: "rectangle selection toggle"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "m"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "extend"
+    descriptiveName: "extend mode"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "t"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "tierSelect"
+    descriptiveName: "quick tier select"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "mouse 4"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 0
+    dead: 0
+    sensitivity: 0
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "floorUP"
+    descriptiveName: "hide floors up"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "page up"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "floorDN"
+    descriptiveName: "hide floors down"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "page down"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Zoom"
+    descriptiveName: "zoom"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "z"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "halfPlace"
+    descriptiveName: "half foundation snap"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "h"
+    altNegativeButton: 
+    altPositiveButton: "mouse 2"
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "menu"
+    descriptiveName: "menu toggle"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "escape"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Submit"
+    descriptiveName: "enter \x2f return"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "return"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Vertical"
+    descriptiveName: "not used"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Horizontal"
+    descriptiveName: "not used"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Wiring"
+    descriptiveName: "wiring mode"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "v"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "speed1"
+    descriptiveName: "speed slow"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "f1"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "speed2"
+    descriptiveName: "speed normal"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "f2"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "speed3"
+    descriptiveName: "speed fast"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "f3"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Walk"
+    descriptiveName: "walk"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "g"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "speedUp"
+    descriptiveName: "speed boost"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "left shift"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "copterLook"
+    descriptiveName: "copter mouse look"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "left alt"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "fire"
+    descriptiveName: "fire (raid mode)"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "x"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "partPicker"
+    descriptiveName: "part picker"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "p"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "levelMoveTog"
+    descriptiveName: "level movement toggle"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "left alt"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: "Cancel"
+    descriptiveName: "not used"
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: "f3"
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0

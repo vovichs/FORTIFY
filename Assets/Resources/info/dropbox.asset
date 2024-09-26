@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09004c0b15b0b18f3a622ea999b9bbaf, type: 3}
+  m_Name: "dropbox"
+  m_EditorClassIdentifier: 
+  named: "dropbox"
+  id: 22
+  favorite: 0
+  dontInclude: 0
+  defaultBP: 0
+  pickup: 0
+  workbench: 1
+  multiplier: 0
+  angleLimit: 20
+  buildDeploy: 0
+  researchCost: 75
+  wood: 0
+  stone: 0
+  metal: 200
+  hq_metal: 0
+  gears: 0
+  ladders: 0
+  blades: 0
+  tarp: 0
+  fuel: 0
+  cloth: 0
+  sewkit: 0
+  rope: 0
+  sheetmetal: 0
+  propane: 0
+  techTrash: 0
+  targetComp: 0
+  CCTV: 0
+  scrap: 40
+  shop: 0
+  storageSlots: 12
+  waterStorage: 0
+  HP: 100
+  protection: 
+  - 0.95
+  - 0.99
+  - 0.99
+  - 0.99
+  - 0.5
+  description: 
+  rustDescription: "This item can be deployed on walls so that players can input items
+  from the exterior of the building for safe keeping. You can only
+  access the submitted contents of the Drop Box from the rear."

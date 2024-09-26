@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09004c0b15b0b18f3a622ea999b9bbaf, type: 3}
+  m_Name: "simple_light"
+  m_EditorClassIdentifier: 
+  named: "simple light"
+  id: 156
+  favorite: 0
+  dontInclude: 1
+  defaultBP: 0
+  pickup: 0
+  workbench: 0
+  multiplier: 0
+  angleLimit: 20
+  buildDeploy: 0
+  researchCost: 0
+  wood: 0
+  stone: 0
+  metal: 0
+  hq_metal: 0
+  gears: 0
+  ladders: 0
+  blades: 0
+  tarp: 0
+  fuel: 0
+  cloth: 0
+  sewkit: 0
+  rope: 0
+  sheetmetal: 0
+  propane: 0
+  techTrash: 0
+  targetComp: 0
+  CCTV: 0
+  scrap: 0
+  shop: 0
+  storageSlots: 0
+  waterStorage: 0
+  HP: 9999
+  protection: 
+  description: "admin spawn only"
+  rustDescription: "A simple debugging light"
